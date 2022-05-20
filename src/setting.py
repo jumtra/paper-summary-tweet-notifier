@@ -24,6 +24,7 @@ USERS = [
     "ak92501",
     "ImAI_Eruel",
     "icoxfog417",
-    "jaguring1"
+    "jaguring1",
+    "TJO_datasci"
     
 ]
