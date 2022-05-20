@@ -22,4 +22,8 @@ BLOCK_LIST = set(
 
 USERS = [
     "ak92501",
+    "ImAI_Eruel",
+    "icoxfog417",
+    "jaguring1"
+    
 ]
