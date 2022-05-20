@@ -3,7 +3,7 @@ name: paper-summary-tweet-notification
 on:
   schedule:
     # UTC 0時 -> 日本時間朝9時
-    - cron:  '50 * * * *'
+    - cron:  '55 * * * *'
   workflow_dispatch:
 
 jobs:
